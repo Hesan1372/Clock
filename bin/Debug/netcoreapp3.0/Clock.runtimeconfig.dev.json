@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hesan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hesan\\.nuget\\packages"
+    ]
+  }
+}
